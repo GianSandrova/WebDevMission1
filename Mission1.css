@@ -1,0 +1,86 @@
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+}
+
+.blue-box{
+  background-color: darkblue;
+  width:33vw;
+  height:50vh;
+}
+.yellow-box{
+  background-color: yellow;
+  width:33vw;
+  height:16.6vh;
+}
+.red-box{
+  background-color: red;
+  width:33vw;
+  height:16.6vh;
+  color: white;
+}
+.green-box{
+  background-color: green;
+  width:33vw;
+  height:16.6vh;
+}
+.black-box{
+  background-color: black;
+  width:66vw;
+  height:16.6vh;
+  color: white;
+}
+.brown-box{
+  background-color: brown;
+  width: 33vw;
+  height: 33.2vh;
+  color: white;
+}
+.purple-box{
+  background-color: purple;
+  width: 33vw;
+  height: 33.2vh;
+  color: white;
+}
+.orange-box{
+  background-color: orange;
+  width: 33vw;
+  height: 16.6vh;
+}
+.white-box{
+  background-color: white;
+  width: 16.5vw;
+  height: 49.8vh;
+}
+.pink-box{
+  background-color: pink;
+  width: 16.5vw;
+  height: 16.6vh;
+}
+.bluee-box{
+  background-color: blue;
+  width: 16.5vw;
+  height: 33.2vh;
+}
+.grey-box{
+  background-color: grey;
+  width: 33vw;
+  height: 33.2vh;
+}
+.flex-container{
+  display: flex;
+}
+
+.TextHitam{
+  color: black;
+}
+
+.TextPutih{
+  color: white;
+}
+
+
+
+
